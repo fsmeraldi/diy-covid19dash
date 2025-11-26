@@ -1,0 +1,2002 @@
+[
+  {
+    "date": "2020-01-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-01-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-01-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 7.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-01-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-02-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-02-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-02-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-02-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-03-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-03-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-03-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-03-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-03-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-04-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-04-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-04-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-04-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-05-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-05-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-05-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-05-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-06-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-06-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-06-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-06-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-06-29",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-07-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-07-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-07-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-07-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-08-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-08-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-08-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-08-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-08-31",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-09-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 8.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-09-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-09-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-09-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-10-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-10-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-10-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-10-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 8.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-11-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-11-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-11-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-11-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-11-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-12-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 8.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-12-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-12-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2020-12-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-01-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-01-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-01-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-01-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-02-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-02-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-02-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-02-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-03-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-03-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-03-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-03-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-03-29",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-04-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-04-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-04-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-04-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-05-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-05-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-05-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-05-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-05-31",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-06-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-06-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-06-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-06-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-07-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-07-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-07-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-07-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-08-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-08-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-08-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-08-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-08-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-09-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-09-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-09-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-09-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-10-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-10-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-10-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-10-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 7.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-11-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-11-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-11-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-11-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-11-29",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-12-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 7.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-12-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-12-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2021-12-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-01-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-01-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-01-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-01-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-01-31",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-02-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-02-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-02-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-02-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-03-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-03-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-03-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-03-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-04-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-04-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-04-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-04-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-05-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-05-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-05-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-05-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-05-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-06-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-06-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-06-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-06-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-07-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-07-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-07-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-07-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-08-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-08-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-08-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-08-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-08-29",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-09-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-09-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-09-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-09-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-10-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-10-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 6.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-10-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-10-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 3.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-10-31",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-11-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-11-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 8.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-11-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-11-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 21.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-12-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 20.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-12-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 22.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-12-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 21.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2022-12-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 25.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-01-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 25.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-01-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 23.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-01-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 23.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-01-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 22.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-01-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 21.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-02-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 25.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-02-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 22.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-02-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 18.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-02-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 22.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-03-06",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 19.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-03-13",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 21.0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-03-20",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 19.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-03-27",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 15.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-04-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 15.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-04-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 18.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-04-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 16.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-04-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 17.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-05-01",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 14.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-05-08",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 16.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-05-15",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 14.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-05-22",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 15.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-05-29",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 15.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-06-05",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 10.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-06-12",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 11.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-06-19",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-06-26",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-07-03",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-07-10",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-07-17",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-07-24",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-07-31",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 1.9,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-08-07",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-08-14",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-08-21",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-08-28",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.5,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-09-04",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.4,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-09-11",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-09-18",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.7,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-09-25",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.2,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-10-02",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-10-09",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 2.3,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-10-16",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 0.8,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-10-23",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 5.1,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  },
+  {
+    "date": "2023-10-30",
+    "metric": "Measles_cases_countByWeek",
+    "metric_value": 4.6,
+    "theme": "infectious_disease",
+    "sub_theme": "vaccine_preventable",
+    "topic": "Measles",
+    "geography_type": "Nation",
+    "geography": "England"
+  }
+]
