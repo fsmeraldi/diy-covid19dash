@@ -1,0 +1,366 @@
+date,region,resistance,bacteria,resistance_type
+2020-04-01,London,0.58,E_coli,Carbapenems
+2020-04-01,London,15.55,E_coli,Gentamicin
+2020-04-01,London,24.45,E_coli,Third Generation Cephalosporins
+2020-04-01,London,13.42,E_coli,Piperacillin with tazobactam
+2020-04-01,London,47.07,E_coli,Co-amoxiclav
+2020-04-01,London,1.22,E_coli,Amikacin
+2020-04-01,London,31.31,E_coli,Ciprofloxacin
+2020-05-01,London,15.46,E_coli,Gentamicin
+2020-05-01,London,29.35,E_coli,Ciprofloxacin
+2020-05-01,London,1.28,E_coli,Amikacin
+2020-05-01,London,11.75,E_coli,Piperacillin with tazobactam
+2020-05-01,London,48.14,E_coli,Co-amoxiclav
+2020-05-01,London,24.9,E_coli,Third Generation Cephalosporins
+2020-05-01,London,0.64,E_coli,Carbapenems
+2020-06-01,London,15.05,E_coli,Gentamicin
+2020-06-01,London,21.55,E_coli,Third Generation Cephalosporins
+2020-06-01,London,10.47,E_coli,Piperacillin with tazobactam
+2020-06-01,London,1.52,E_coli,Amikacin
+2020-06-01,London,29.31,E_coli,Ciprofloxacin
+2020-06-01,London,0.52,E_coli,Carbapenems
+2020-06-01,London,45.45,E_coli,Co-amoxiclav
+2020-07-01,London,19.56,E_coli,Third Generation Cephalosporins
+2020-07-01,London,11.18,E_coli,Piperacillin with tazobactam
+2020-07-01,London,15.47,E_coli,Gentamicin
+2020-07-01,London,27.63,E_coli,Ciprofloxacin
+2020-07-01,London,0.37,E_coli,Carbapenems
+2020-07-01,London,2.05,E_coli,Amikacin
+2020-07-01,London,43.27,E_coli,Co-amoxiclav
+2020-08-01,London,2.37,E_coli,Amikacin
+2020-08-01,London,14.0,E_coli,Gentamicin
+2020-08-01,London,41.22,E_coli,Co-amoxiclav
+2020-08-01,London,26.34,E_coli,Ciprofloxacin
+2020-08-01,London,0.12,E_coli,Carbapenems
+2020-08-01,London,17.5,E_coli,Third Generation Cephalosporins
+2020-08-01,London,10.8,E_coli,Piperacillin with tazobactam
+2020-09-01,London,19.69,E_coli,Third Generation Cephalosporins
+2020-09-01,London,42.61,E_coli,Co-amoxiclav
+2020-09-01,London,14.77,E_coli,Gentamicin
+2020-09-01,London,0.34,E_coli,Carbapenems
+2020-09-01,London,28.33,E_coli,Ciprofloxacin
+2020-09-01,London,13.38,E_coli,Piperacillin with tazobactam
+2020-09-01,London,2.21,E_coli,Amikacin
+2020-10-01,London,19.78,E_coli,Third Generation Cephalosporins
+2020-10-01,London,12.16,E_coli,Piperacillin with tazobactam
+2020-10-01,London,13.83,E_coli,Gentamicin
+2020-10-01,London,2.47,E_coli,Amikacin
+2020-10-01,London,0.45,E_coli,Carbapenems
+2020-10-01,London,43.16,E_coli,Co-amoxiclav
+2020-10-01,London,28.21,E_coli,Ciprofloxacin
+2020-11-01,London,28.08,E_coli,Ciprofloxacin
+2020-11-01,London,13.95,E_coli,Gentamicin
+2020-11-01,London,0.36,E_coli,Carbapenems
+2020-11-01,London,12.48,E_coli,Piperacillin with tazobactam
+2020-11-01,London,42.36,E_coli,Co-amoxiclav
+2020-11-01,London,2.77,E_coli,Amikacin
+2020-11-01,London,20.67,E_coli,Third Generation Cephalosporins
+2020-12-01,London,29.48,E_coli,Ciprofloxacin
+2020-12-01,London,20.68,E_coli,Third Generation Cephalosporins
+2020-12-01,London,4.17,E_coli,Amikacin
+2020-12-01,London,12.69,E_coli,Piperacillin with tazobactam
+2020-12-01,London,43.89,E_coli,Co-amoxiclav
+2020-12-01,London,13.24,E_coli,Gentamicin
+2020-12-01,London,0.12,E_coli,Carbapenems
+2021-01-01,London,13.83,E_coli,Piperacillin with tazobactam
+2021-01-01,London,23.79,E_coli,Third Generation Cephalosporins
+2021-01-01,London,31.78,E_coli,Ciprofloxacin
+2021-01-01,London,3.42,E_coli,Amikacin
+2021-01-01,London,0.0,E_coli,Carbapenems
+2021-01-01,London,46.29,E_coli,Co-amoxiclav
+2021-01-01,London,14.16,E_coli,Gentamicin
+2021-02-01,London,15.17,E_coli,Piperacillin with tazobactam
+2021-02-01,London,24.1,E_coli,Third Generation Cephalosporins
+2021-02-01,London,14.72,E_coli,Gentamicin
+2021-02-01,London,50.14,E_coli,Co-amoxiclav
+2021-02-01,London,2.53,E_coli,Amikacin
+2021-02-01,London,31.11,E_coli,Ciprofloxacin
+2021-02-01,London,0.13,E_coli,Carbapenems
+2021-03-01,London,11.58,E_coli,Piperacillin with tazobactam
+2021-03-01,London,48.01,E_coli,Co-amoxiclav
+2021-03-01,London,0.14,E_coli,Carbapenems
+2021-03-01,London,23.94,E_coli,Third Generation Cephalosporins
+2021-03-01,London,27.91,E_coli,Ciprofloxacin
+2021-03-01,London,1.29,E_coli,Amikacin
+2021-03-01,London,15.45,E_coli,Gentamicin
+2021-04-01,London,23.42,E_coli,Ciprofloxacin
+2021-04-01,London,43.23,E_coli,Co-amoxiclav
+2021-04-01,London,14.71,E_coli,Gentamicin
+2021-04-01,London,10.86,E_coli,Piperacillin with tazobactam
+2021-04-01,London,1.5,E_coli,Amikacin
+2021-04-01,London,0.26,E_coli,Carbapenems
+2021-04-01,London,20.33,E_coli,Third Generation Cephalosporins
+2021-05-01,London,0.23,E_coli,Carbapenems
+2021-05-01,London,27.11,E_coli,Ciprofloxacin
+2021-05-01,London,21.9,E_coli,Third Generation Cephalosporins
+2021-05-01,London,1.89,E_coli,Amikacin
+2021-05-01,London,41.9,E_coli,Co-amoxiclav
+2021-05-01,London,15.65,E_coli,Gentamicin
+2021-05-01,London,9.85,E_coli,Piperacillin with tazobactam
+2021-06-01,London,41.3,E_coli,Co-amoxiclav
+2021-06-01,London,9.89,E_coli,Piperacillin with tazobactam
+2021-06-01,London,25.8,E_coli,Ciprofloxacin
+2021-06-01,London,0.21,E_coli,Carbapenems
+2021-06-01,London,14.6,E_coli,Gentamicin
+2021-06-01,London,1.8,E_coli,Amikacin
+2021-06-01,London,20.92,E_coli,Third Generation Cephalosporins
+2021-07-01,London,0.3,E_coli,Carbapenems
+2021-07-01,London,21.58,E_coli,Third Generation Cephalosporins
+2021-07-01,London,44.0,E_coli,Co-amoxiclav
+2021-07-01,London,14.62,E_coli,Gentamicin
+2021-07-01,London,11.73,E_coli,Piperacillin with tazobactam
+2021-07-01,London,1.98,E_coli,Amikacin
+2021-07-01,London,26.59,E_coli,Ciprofloxacin
+2021-08-01,London,12.25,E_coli,Piperacillin with tazobactam
+2021-08-01,London,14.86,E_coli,Gentamicin
+2021-08-01,London,20.98,E_coli,Third Generation Cephalosporins
+2021-08-01,London,0.41,E_coli,Carbapenems
+2021-08-01,London,25.08,E_coli,Ciprofloxacin
+2021-08-01,London,43.25,E_coli,Co-amoxiclav
+2021-08-01,London,1.82,E_coli,Amikacin
+2021-09-01,London,13.88,E_coli,Piperacillin with tazobactam
+2021-09-01,London,14.97,E_coli,Gentamicin
+2021-09-01,London,19.9,E_coli,Third Generation Cephalosporins
+2021-09-01,London,0.4,E_coli,Carbapenems
+2021-09-01,London,1.33,E_coli,Amikacin
+2021-09-01,London,45.31,E_coli,Co-amoxiclav
+2021-09-01,London,25.53,E_coli,Ciprofloxacin
+2021-10-01,London,1.45,E_coli,Amikacin
+2021-10-01,London,0.3,E_coli,Carbapenems
+2021-10-01,London,26.01,E_coli,Ciprofloxacin
+2021-10-01,London,20.02,E_coli,Third Generation Cephalosporins
+2021-10-01,London,44.31,E_coli,Co-amoxiclav
+2021-10-01,London,15.82,E_coli,Gentamicin
+2021-10-01,London,12.82,E_coli,Piperacillin with tazobactam
+2021-11-01,London,27.92,E_coli,Ciprofloxacin
+2021-11-01,London,0.47,E_coli,Carbapenems
+2021-11-01,London,20.82,E_coli,Third Generation Cephalosporins
+2021-11-01,London,2.06,E_coli,Amikacin
+2021-11-01,London,13.58,E_coli,Piperacillin with tazobactam
+2021-11-01,London,45.69,E_coli,Co-amoxiclav
+2021-11-01,London,15.92,E_coli,Gentamicin
+2021-12-01,London,16.44,E_coli,Gentamicin
+2021-12-01,London,28.06,E_coli,Ciprofloxacin
+2021-12-01,London,0.83,E_coli,Carbapenems
+2021-12-01,London,44.59,E_coli,Co-amoxiclav
+2021-12-01,London,2.53,E_coli,Amikacin
+2021-12-01,London,13.47,E_coli,Piperacillin with tazobactam
+2021-12-01,London,21.29,E_coli,Third Generation Cephalosporins
+2022-01-01,London,2.56,E_coli,Amikacin
+2022-01-01,London,13.21,E_coli,Piperacillin with tazobactam
+2022-01-01,London,1.05,E_coli,Carbapenems
+2022-01-01,London,21.12,E_coli,Third Generation Cephalosporins
+2022-01-01,London,16.56,E_coli,Gentamicin
+2022-01-01,London,28.2,E_coli,Ciprofloxacin
+2022-01-01,London,46.83,E_coli,Co-amoxiclav
+2022-02-01,London,19.31,E_coli,Third Generation Cephalosporins
+2022-02-01,London,0.89,E_coli,Carbapenems
+2022-02-01,London,2.68,E_coli,Amikacin
+2022-02-01,London,15.89,E_coli,Gentamicin
+2022-02-01,London,12.51,E_coli,Piperacillin with tazobactam
+2022-02-01,London,26.4,E_coli,Ciprofloxacin
+2022-02-01,London,43.92,E_coli,Co-amoxiclav
+2022-03-01,London,27.66,E_coli,Ciprofloxacin
+2022-03-01,London,0.52,E_coli,Carbapenems
+2022-03-01,London,43.3,E_coli,Co-amoxiclav
+2022-03-01,London,12.78,E_coli,Piperacillin with tazobactam
+2022-03-01,London,16.08,E_coli,Gentamicin
+2022-03-01,London,20.33,E_coli,Third Generation Cephalosporins
+2022-03-01,London,3.05,E_coli,Amikacin
+2022-04-01,London,42.65,E_coli,Co-amoxiclav
+2022-04-01,London,2.83,E_coli,Amikacin
+2022-04-01,London,21.28,E_coli,Third Generation Cephalosporins
+2022-04-01,London,15.23,E_coli,Gentamicin
+2022-04-01,London,28.68,E_coli,Ciprofloxacin
+2022-04-01,London,0.21,E_coli,Carbapenems
+2022-04-01,London,13.31,E_coli,Piperacillin with tazobactam
+2022-05-01,London,45.37,E_coli,Co-amoxiclav
+2022-05-01,London,2.06,E_coli,Amikacin
+2022-05-01,London,21.43,E_coli,Third Generation Cephalosporins
+2022-05-01,London,12.58,E_coli,Piperacillin with tazobactam
+2022-05-01,London,27.92,E_coli,Ciprofloxacin
+2022-05-01,London,14.52,E_coli,Gentamicin
+2022-05-01,London,0.0,E_coli,Carbapenems
+2022-06-01,London,0.0,E_coli,Carbapenems
+2022-06-01,London,45.96,E_coli,Co-amoxiclav
+2022-06-01,London,1.52,E_coli,Amikacin
+2022-06-01,London,28.77,E_coli,Ciprofloxacin
+2022-06-01,London,11.28,E_coli,Piperacillin with tazobactam
+2022-06-01,London,22.05,E_coli,Third Generation Cephalosporins
+2022-06-01,London,14.65,E_coli,Gentamicin
+2022-07-01,London,15.13,E_coli,Gentamicin
+2022-07-01,London,46.22,E_coli,Co-amoxiclav
+2022-07-01,London,28.63,E_coli,Ciprofloxacin
+2022-07-01,London,1.52,E_coli,Amikacin
+2022-07-01,London,10.36,E_coli,Piperacillin with tazobactam
+2022-07-01,London,22.5,E_coli,Third Generation Cephalosporins
+2022-07-01,London,0.2,E_coli,Carbapenems
+2022-08-01,London,45.72,E_coli,Co-amoxiclav
+2022-08-01,London,22.36,E_coli,Third Generation Cephalosporins
+2022-08-01,London,10.95,E_coli,Piperacillin with tazobactam
+2022-08-01,London,2.27,E_coli,Amikacin
+2022-08-01,London,0.29,E_coli,Carbapenems
+2022-08-01,London,29.0,E_coli,Ciprofloxacin
+2022-08-01,London,15.59,E_coli,Gentamicin
+2022-09-01,London,13.8,E_coli,Gentamicin
+2022-09-01,London,0.27,E_coli,Carbapenems
+2022-09-01,London,11.79,E_coli,Piperacillin with tazobactam
+2022-09-01,London,21.75,E_coli,Third Generation Cephalosporins
+2022-09-01,London,45.59,E_coli,Co-amoxiclav
+2022-09-01,London,27.07,E_coli,Ciprofloxacin
+2022-09-01,London,2.32,E_coli,Amikacin
+2022-10-01,London,26.5,E_coli,Ciprofloxacin
+2022-10-01,London,43.25,E_coli,Co-amoxiclav
+2022-10-01,London,11.72,E_coli,Piperacillin with tazobactam
+2022-10-01,London,20.09,E_coli,Third Generation Cephalosporins
+2022-10-01,London,0.28,E_coli,Carbapenems
+2022-10-01,London,13.26,E_coli,Gentamicin
+2022-10-01,London,2.71,E_coli,Amikacin
+2022-11-01,London,3.15,E_coli,Amikacin
+2022-11-01,London,42.87,E_coli,Co-amoxiclav
+2022-11-01,London,26.92,E_coli,Ciprofloxacin
+2022-11-01,London,21.85,E_coli,Third Generation Cephalosporins
+2022-11-01,London,12.6,E_coli,Gentamicin
+2022-11-01,London,11.73,E_coli,Piperacillin with tazobactam
+2022-11-01,London,0.28,E_coli,Carbapenems
+2022-12-01,London,28.27,E_coli,Ciprofloxacin
+2022-12-01,London,23.03,E_coli,Third Generation Cephalosporins
+2022-12-01,London,43.38,E_coli,Co-amoxiclav
+2022-12-01,London,14.04,E_coli,Gentamicin
+2022-12-01,London,0.39,E_coli,Carbapenems
+2022-12-01,London,3.79,E_coli,Amikacin
+2022-12-01,London,12.16,E_coli,Piperacillin with tazobactam
+2023-01-01,London,12.99,E_coli,Piperacillin with tazobactam
+2023-01-01,London,3.43,E_coli,Amikacin
+2023-01-01,London,23.14,E_coli,Third Generation Cephalosporins
+2023-01-01,London,13.99,E_coli,Gentamicin
+2023-01-01,London,44.94,E_coli,Co-amoxiclav
+2023-01-01,London,0.59,E_coli,Carbapenems
+2023-01-01,London,27.76,E_coli,Ciprofloxacin
+2023-02-01,London,24.02,E_coli,Third Generation Cephalosporins
+2023-02-01,London,28.28,E_coli,Ciprofloxacin
+2023-02-01,London,15.31,E_coli,Piperacillin with tazobactam
+2023-02-01,London,14.74,E_coli,Gentamicin
+2023-02-01,London,44.8,E_coli,Co-amoxiclav
+2023-02-01,London,1.04,E_coli,Carbapenems
+2023-02-01,London,3.72,E_coli,Amikacin
+2023-03-01,London,27.16,E_coli,Ciprofloxacin
+2023-03-01,London,45.8,E_coli,Co-amoxiclav
+2023-03-01,London,16.23,E_coli,Gentamicin
+2023-03-01,London,3.87,E_coli,Amikacin
+2023-03-01,London,15.38,E_coli,Piperacillin with tazobactam
+2023-03-01,London,24.76,E_coli,Third Generation Cephalosporins
+2023-03-01,London,0.99,E_coli,Carbapenems
+2023-04-01,London,4.82,E_coli,Amikacin
+2023-04-01,London,17.71,E_coli,Gentamicin
+2023-04-01,London,16.51,E_coli,Piperacillin with tazobactam
+2023-04-01,London,26.59,E_coli,Third Generation Cephalosporins
+2023-04-01,London,45.24,E_coli,Co-amoxiclav
+2023-04-01,London,0.88,E_coli,Carbapenems
+2023-04-01,London,28.7,E_coli,Ciprofloxacin
+2023-05-01,London,4.17,E_coli,Amikacin
+2023-05-01,London,26.25,E_coli,Third Generation Cephalosporins
+2023-05-01,London,45.31,E_coli,Co-amoxiclav
+2023-05-01,London,0.38,E_coli,Carbapenems
+2023-05-01,London,19.04,E_coli,Gentamicin
+2023-05-01,London,15.98,E_coli,Piperacillin with tazobactam
+2023-05-01,London,29.29,E_coli,Ciprofloxacin
+2023-06-01,London,45.93,E_coli,Co-amoxiclav
+2023-06-01,London,4.26,E_coli,Amikacin
+2023-06-01,London,0.83,E_coli,Carbapenems
+2023-06-01,London,30.15,E_coli,Ciprofloxacin
+2023-06-01,London,18.22,E_coli,Gentamicin
+2023-06-01,London,17.05,E_coli,Piperacillin with tazobactam
+2023-06-01,London,26.07,E_coli,Third Generation Cephalosporins
+2023-07-01,London,16.92,E_coli,Gentamicin
+2023-07-01,London,25.43,E_coli,Third Generation Cephalosporins
+2023-07-01,London,3.71,E_coli,Amikacin
+2023-07-01,London,43.52,E_coli,Co-amoxiclav
+2023-07-01,London,0.71,E_coli,Carbapenems
+2023-07-01,London,15.28,E_coli,Piperacillin with tazobactam
+2023-07-01,London,28.94,E_coli,Ciprofloxacin
+2023-08-01,London,27.64,E_coli,Ciprofloxacin
+2023-08-01,London,42.72,E_coli,Co-amoxiclav
+2023-08-01,London,16.61,E_coli,Gentamicin
+2023-08-01,London,1.03,E_coli,Carbapenems
+2023-08-01,London,14.91,E_coli,Piperacillin with tazobactam
+2023-08-01,London,3.7,E_coli,Amikacin
+2023-08-01,London,24.73,E_coli,Third Generation Cephalosporins
+2023-09-01,London,41.43,E_coli,Co-amoxiclav
+2023-09-01,London,25.46,E_coli,Third Generation Cephalosporins
+2023-09-01,London,3.76,E_coli,Amikacin
+2023-09-01,London,15.01,E_coli,Piperacillin with tazobactam
+2023-09-01,London,0.68,E_coli,Carbapenems
+2023-09-01,London,16.25,E_coli,Gentamicin
+2023-09-01,London,28.26,E_coli,Ciprofloxacin
+2023-10-01,London,0.85,E_coli,Carbapenems
+2023-10-01,London,42.61,E_coli,Co-amoxiclav
+2023-10-01,London,3.83,E_coli,Amikacin
+2023-10-01,London,25.65,E_coli,Third Generation Cephalosporins
+2023-10-01,London,17.28,E_coli,Piperacillin with tazobactam
+2023-10-01,London,29.12,E_coli,Ciprofloxacin
+2023-10-01,London,16.42,E_coli,Gentamicin
+2023-11-01,London,15.83,E_coli,Gentamicin
+2023-11-01,London,18.39,E_coli,Piperacillin with tazobactam
+2023-11-01,London,0.8,E_coli,Carbapenems
+2023-11-01,London,3.72,E_coli,Amikacin
+2023-11-01,London,25.02,E_coli,Third Generation Cephalosporins
+2023-11-01,London,28.73,E_coli,Ciprofloxacin
+2023-11-01,London,43.59,E_coli,Co-amoxiclav
+2023-12-01,London,42.43,E_coli,Co-amoxiclav
+2023-12-01,London,0.82,E_coli,Carbapenems
+2023-12-01,London,15.97,E_coli,Gentamicin
+2023-12-01,London,27.36,E_coli,Ciprofloxacin
+2023-12-01,London,22.79,E_coli,Third Generation Cephalosporins
+2023-12-01,London,16.14,E_coli,Piperacillin with tazobactam
+2023-12-01,London,3.08,E_coli,Amikacin
+2024-01-01,London,15.41,E_coli,Piperacillin with tazobactam
+2024-01-01,London,23.47,E_coli,Third Generation Cephalosporins
+2024-01-01,London,0.81,E_coli,Carbapenems
+2024-01-01,London,3.25,E_coli,Amikacin
+2024-01-01,London,43.96,E_coli,Co-amoxiclav
+2024-01-01,London,28.16,E_coli,Ciprofloxacin
+2024-01-01,London,17.81,E_coli,Gentamicin
+2024-02-01,London,3.2,E_coli,Amikacin
+2024-02-01,London,13.31,E_coli,Piperacillin with tazobactam
+2024-02-01,London,0.52,E_coli,Carbapenems
+2024-02-01,London,29.62,E_coli,Ciprofloxacin
+2024-02-01,London,43.17,E_coli,Co-amoxiclav
+2024-02-01,London,24.62,E_coli,Third Generation Cephalosporins
+2024-02-01,London,18.24,E_coli,Gentamicin
+2024-03-01,London,18.65,E_coli,Gentamicin
+2024-03-01,London,3.19,E_coli,Amikacin
+2024-03-01,London,42.6,E_coli,Co-amoxiclav
+2024-03-01,London,30.49,E_coli,Ciprofloxacin
+2024-03-01,London,25.29,E_coli,Third Generation Cephalosporins
+2024-03-01,London,13.31,E_coli,Piperacillin with tazobactam
+2024-03-01,London,0.34,E_coli,Carbapenems
+2024-04-01,London,3.2,E_coli,Amikacin
+2024-04-01,London,17.41,E_coli,Gentamicin
+2024-04-01,London,25.94,E_coli,Third Generation Cephalosporins
+2024-04-01,London,29.87,E_coli,Ciprofloxacin
+2024-04-01,London,13.73,E_coli,Piperacillin with tazobactam
+2024-04-01,London,41.59,E_coli,Co-amoxiclav
+2024-04-01,London,0.5,E_coli,Carbapenems
+2024-05-01,London,15.43,E_coli,Piperacillin with tazobactam
+2024-05-01,London,3.96,E_coli,Amikacin
+2024-05-01,London,30.07,E_coli,Ciprofloxacin
+2024-05-01,London,27.46,E_coli,Third Generation Cephalosporins
+2024-05-01,London,44.67,E_coli,Co-amoxiclav
+2024-05-01,London,17.51,E_coli,Gentamicin
+2024-05-01,London,0.7,E_coli,Carbapenems
+2024-06-01,London,46.1,E_coli,Co-amoxiclav
+2024-06-01,London,0.91,E_coli,Carbapenems
+2024-06-01,London,3.97,E_coli,Amikacin
+2024-06-01,London,16.95,E_coli,Piperacillin with tazobactam
+2024-06-01,London,30.45,E_coli,Ciprofloxacin
+2024-06-01,London,16.98,E_coli,Gentamicin
+2024-06-01,London,28.09,E_coli,Third Generation Cephalosporins
+2024-07-01,London,4.26,E_coli,Amikacin
+2024-07-01,London,46.83,E_coli,Co-amoxiclav
+2024-07-01,London,28.84,E_coli,Third Generation Cephalosporins
+2024-07-01,London,18.3,E_coli,Gentamicin
+2024-07-01,London,31.11,E_coli,Ciprofloxacin
+2024-07-01,London,0.53,E_coli,Carbapenems
+2024-07-01,London,16.59,E_coli,Piperacillin with tazobactam
+2024-08-01,London,30.19,E_coli,Ciprofloxacin
